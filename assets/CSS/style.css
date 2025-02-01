@@ -190,8 +190,8 @@ img {
     background-size: cover;
 }
 
-/* PORTFOLIO */
-.portfolio-item .iconbox {
+/* GALLERY */
+.gallery-item .iconbox {
     background-color: var(--c-brand);
     color: white;
     position: absolute;
@@ -201,7 +201,7 @@ img {
     opacity: 0;
 }
 
-.portfolio-item:hover .iconbox {
+.gallery-item:hover .iconbox {
     opacity: 1;
     top: 50%;
 }

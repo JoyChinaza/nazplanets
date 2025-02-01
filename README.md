@@ -1,9 +1,9 @@
-nazPlanets:
+nazplanets:
 Catering Website
 
 Project Overview
 
-nazPlanets is a visually appealing and interactive website designed to showcase the brand's services, gallery, and team. The site features smooth animations, a responsive layout, and an elegant design powered by HTML, CSS, and JavaScript.
+nazplanets is a visually appealing and interactive website designed to showcase the brand's services, gallery, and team. The site features smooth animations, a responsive layout, and an elegant design powered by HTML, CSS, and JavaScript.
 
 Features
 
@@ -55,7 +55,7 @@ Installation & Usage
 
 Clone the repository:
 
-git clone https://github.com/JoyChinaza/nazPlanets.git
+git clone https://github.com/JoyChinaza/nazplanets.git
 
 Open index.html in a browser to preview the website.
 
